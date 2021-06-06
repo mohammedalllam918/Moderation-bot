@@ -8,7 +8,7 @@ module.exports.config = {
     permissions: ["MANAGE_GUILD"],
     group: "config",
     example: '.prefix !',
-    usage: 'prefix <newPrefix>',
+    usage: 'prefix <#>',
     description: "Set the prefix for the server",
     guildOnly: true
 }
